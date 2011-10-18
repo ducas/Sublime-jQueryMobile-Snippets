@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[:jqmData(${1:field}=${2:value})]]></content>
+	<tabTrigger>:jqmdata</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile Data selector</description>
+</snippet>

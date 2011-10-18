@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('swipe', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>swipe</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile swipe handler</description>
+</snippet>

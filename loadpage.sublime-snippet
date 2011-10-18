@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[\$.mobile.loadPage('${1:url}', ${2:\{${4:
+		data: ${3:undefined},}${6:
+		loadMsgDelay: ${5:50},}${8:
+		pageContainer: ${7:\$.mobile.pageContainer},}${10:
+		reloadPage: ${9:false},}${12:
+		role: ${11:undefined},}${14:
+		type: '${13:get'}}
+\}});]]></content>
+	<tabTrigger>loadpage</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile loadPage handler</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('tap', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>tap</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile tap handler</description>
+</snippet>

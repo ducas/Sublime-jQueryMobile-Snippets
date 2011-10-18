@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('swiperight', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>swiperight</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile swiperight handler</description>
+</snippet>

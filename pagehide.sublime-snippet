@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').live('pagehide', function(${2:event, ui}) \{
+	$0
+\});]]></content>
+	<tabTrigger>pagehide</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile pagehide handler</description>
+</snippet>

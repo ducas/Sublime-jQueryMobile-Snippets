@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$(${1:document}).bind('pagechangefailed', function(${2:event, ui}) \{
+	$0
+\});]]></content>
+	<tabTrigger>pagechangefailed</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile pagechangefailed handler</description>
+</snippet>

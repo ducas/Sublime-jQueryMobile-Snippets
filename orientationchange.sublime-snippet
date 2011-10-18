@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('orientationchange', function(${3:event, ui}) \{
+	$0
+\});]]></content>
+	<tabTrigger>orientationchange</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile orientationchange handler</description>
+</snippet>

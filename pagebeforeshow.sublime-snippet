@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').live('pagebeforeshow', function(${2:event, ui}) \{
+	$0
+\});]]></content>
+	<tabTrigger>pagebeforeshow</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile pagebeforeshow handler</description>
+</snippet>

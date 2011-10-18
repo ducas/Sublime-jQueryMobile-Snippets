@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[.jqmRemoveData('${1}');]]></content>
+	<tabTrigger>.jqmremovedata</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile Remove Data method</description>
+</snippet>

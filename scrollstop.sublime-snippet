@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('scrollstop', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>scrollstop</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile scrollstop handler</description>
+</snippet>

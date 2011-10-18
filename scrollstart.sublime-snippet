@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('scrollstart', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>scrollstart</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile scrollstart handler</description>
+</snippet>

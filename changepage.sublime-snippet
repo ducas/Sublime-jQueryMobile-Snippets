@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[\$.mobile.changePage('${1:to}', ${2:\{${4:
+		allowSamePageTransition: ${3:false},}${6:
+		changeHash: ${5:true},}${8:
+		data: ${7:undefined},}${10:
+		dataUrl: ${9:'${1}'},}${12:
+		pageContainer: ${11:\$.mobile.pageContainer},}${14:
+		reloadPage: ${13:false},}${16:
+		reverse: ${15:false},}${18:
+		showLoadMsg: ${17:false},}${20:
+		role: ${19:undefined},}${22:
+		transition: ${21:undefined},}${24:
+		type: '${23:get'}}
+\}});]]></content>
+	<tabTrigger>changepage</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile changePage handler</description>
+</snippet>

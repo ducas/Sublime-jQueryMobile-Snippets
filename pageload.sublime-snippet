@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').live('pageload', function(${2:event, ui}) \{
+	$0
+\});]]></content>
+	<tabTrigger>pageload</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile pageload handler</description>
+</snippet>

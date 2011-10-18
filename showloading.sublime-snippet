@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$.mobile.showPageLoadingMsg();]]></content>
+	<tabTrigger>showloading</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile showPageLoadingMsg method</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$('${1:div}').${2:live}('swipeleft', function(${3:event}) \{
+	$0
+\});]]></content>
+	<tabTrigger>swipeleft</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile swipeleft handler</description>
+</snippet>

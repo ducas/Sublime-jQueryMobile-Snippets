@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$.mobile.hidePageLoadingMsg();]]></content>
+	<tabTrigger>hideloading</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery Mobile hidePageLoadingMsg method</description>
+</snippet>
